@@ -1,4 +1,4 @@
-# SCEgapfilled-framework
+# SCE gap-filling-framework
 
 A simple machine learning-based gap-filling framework was developed for fine-scale snow cover mapping in monsoonal mountainous regions.
 
